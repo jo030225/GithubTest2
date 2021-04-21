@@ -13,6 +13,8 @@
 		BD12DAF4262FECD60024A499 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD12DAF2262FECD60024A499 /* Main.storyboard */; };
 		BD12DAF6262FECD80024A499 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD12DAF5262FECD80024A499 /* Assets.xcassets */; };
 		BD12DAF9262FECD80024A499 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD12DAF7262FECD80024A499 /* LaunchScreen.storyboard */; };
+		BD12DB032630008B0024A499 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD12DB022630008B0024A499 /* FirstViewController.swift */; };
+		BD12DB06263000960024A499 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD12DB05263000960024A499 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		BD12DAF5262FECD80024A499 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD12DAF8262FECD80024A499 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD12DAFA262FECD80024A499 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD12DB022630008B0024A499 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		BD12DB05263000960024A499 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				BD12DAEC262FECD60024A499 /* AppDelegate.swift */,
 				BD12DAEE262FECD60024A499 /* SceneDelegate.swift */,
 				BD12DAF0262FECD60024A499 /* LoginViewController.swift */,
+				BD12DB022630008B0024A499 /* FirstViewController.swift */,
+				BD12DB05263000960024A499 /* SecondViewController.swift */,
 				BD12DAF2262FECD60024A499 /* Main.storyboard */,
 				BD12DAF5262FECD80024A499 /* Assets.xcassets */,
 				BD12DAF7262FECD80024A499 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 				BD12DAF1262FECD60024A499 /* LoginViewController.swift in Sources */,
 				BD12DAED262FECD60024A499 /* AppDelegate.swift in Sources */,
 				BD12DAEF262FECD60024A499 /* SceneDelegate.swift in Sources */,
+				BD12DB06263000960024A499 /* SecondViewController.swift in Sources */,
+				BD12DB032630008B0024A499 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
